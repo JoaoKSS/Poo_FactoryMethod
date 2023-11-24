@@ -1,4 +1,4 @@
-# FactoryMethod
+# Factory Method
 Implementação do padrão método de fabrica.
 
 ##
